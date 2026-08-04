@@ -1,11 +1,11 @@
 ### About Me
-* **Building:** [unbypassable.xyz](https://unbypassable.xyz) — resilient launch links and bot-resistant redirect flows for game communities.
+* **Building:** [unbypassable.xyz](https://unbypassable.xyz) == resilient launch links and bot-resistant redirect flows for game communities.
 * **Stack:** Python (Flask), JS/React, Luau, Nginx, Cloudflare.
 * **Collabs:** Open to building creator utility tools, Discord moderation bots, and custom link integrations.
 * **Testing:** Need help testing launch flows across different regions, ISPs, and proxy edge-cases.
 * **Ask me about:** `roblox://` deep-link failure modes, bypass prevention, or bypassing Turnstile UI bloat.
 
-> _Built this whole setup because I got sick of launch links breaking under heavy traffic._
+> _Built this whole setup because I got sick of a few people that i personally know._
 
 ### Links
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/snm) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:puffy@unbypassable.xyz)
