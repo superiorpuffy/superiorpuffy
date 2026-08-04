@@ -1,5 +1,12 @@
-# About Me:
-I’m looking to collaborate on: creator tools, UX flows, and automated community moderation features<br>I’m looking for help with: testing across diverse networks, multi-region validation, and creator feedback<br>I’m currently learning: product growth tactics, retention analytics, and edge security optimization<br>Ask me about: how to integrate protected links into your game community or bot-proof launch flows<br>Fun fact: I built this because I was sick of launch links breaking under heavy bot traffic<br><br>I’m currently working on: high-resilience game links that hold up under heavy traffic and attacks<br>I’m looking to collaborate on: low-friction verification systems and high-availability launch pipelines<br>I’m looking for help with: catching sneaky proxies and edge cases while keeping honest players happy<br>I’m currently learning: advanced telemetry systems and real-time abuse detection<br>Ask me about: why roblox:// redirects fail, or how to eliminate Cloudflare Turnstile UI friction<br>Fun fact: I once re-engineered a broken launch pipeline in under 10 minutes
+### About Me
+
+* **Currently Building:** High-resilience game links engineered to withstand DDoS attacks and bot traffic
+* **Open to Collaborations:** Creator utility tools, seamless UX flows, and low-friction verification pipelines
+* **Seeking Feedback On:** Edge-case proxy detection, multi-region testing, and real-world network reliability
+* **Active Focus:** Product growth tactics, creator retention analytics, and edge security optimization
+* **Technical Inquiries:** Deep-link mechanics (`roblox://` protocol failure modes), Cloudflare Turnstile friction, and protected community integrations
+
+> _Fun Fact: Built this architecture out of sheer frustration with launch links constantly breaking under load._
 
 
 ## Socials:
