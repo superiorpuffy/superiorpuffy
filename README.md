@@ -1,14 +1,20 @@
-### About Me
-* **Building:** [unbypassable.xyz](https://unbypassable.xyz) == resilient launch links and bot-resistant redirect flows for game communities.
-* **Stack:** Python (Flask), JS/React, Luau, Nginx, Cloudflare.
-* **Collabs:** Open to building creator utility tools, Discord moderation bots, and custom link integrations.
-* **Testing:** Need help testing launch flows across different regions, ISPs, and proxy edge-cases.
-* **Ask me about:** `roblox://` deep-link failure modes, bypass prevention, or bypassing Turnstile UI bloat.
+# puff.
 
-> _Built this whole setup because I got sick of a few people that i personally know._
+i build websites, bots, and Roblox systems. usually end up doing the design, backend, and server setup too, because apparently one problem at a time wasn’t enough.
 
-### Links
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/snm) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:puffy@unbypassable.xyz)
+most of my time goes into **Crescent** and **[unbypassable.xyz](https://unbypassable.xyz)**. the latter started because i got tired of a few people i know. now i spend my evenings figuring out why a link opens perfectly in one browser and refuses to do anything in another.
 
-### Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
+i care a lot about how things look. probably too much. if the interface feels off, i’ll keep changing it even when everything underneath already works.
+
+### what i work with
+
+`Python` · `Flask` · `JavaScript` · `React` · `Luau`  
+`Nginx` · `Cloudflare` · a VPS that occasionally needs a conversation
+
+### got something in mind?
+
+creator tools, Discord bots, custom integrations—send me the idea. you don’t need a polished brief.
+
+also, if one of my launch links breaks on your device, tell me which browser you’re using and what happened. “doesn’t work” gives me about as much to go on as you’d expect.
+
+[Discord ↗](https://discord.gg/snm) · [Email ↗](mailto:puffy@unbypassable.xyz) · [Unbypassable ↗](https://unbypassable.xyz)
